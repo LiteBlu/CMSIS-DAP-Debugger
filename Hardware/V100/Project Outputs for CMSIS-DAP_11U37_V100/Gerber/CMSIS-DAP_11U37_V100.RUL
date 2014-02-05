@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\temp\Private\CMSIS-DAP\LPC11U37\V100\CMSIS-DAP_11U37_V100.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

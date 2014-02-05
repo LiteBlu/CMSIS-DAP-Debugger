@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=V100\CMSIS-DAP_11U37_V100.PrjPCB
+[Project2]
+ProjectPath=..\..\..\..\Workspace\Altium Library\altium_lib_1.LibPkg
