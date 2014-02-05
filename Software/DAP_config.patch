@@ -1,5 +1,5 @@
---- C:/Users/Nemesis/Desktop/DAP_config.h	Wed Feb 05 13:05:01 2014
-+++ C:/Users/Nemesis/Desktop/AN11321/CMSIS_DAP_LPC11UXX/DAP_config.h	Wed Feb 05 14:55:30 2014
+--- DAP_config.h.orig
++++ DAP_config.h
 @@ -135,10 +135,6 @@
  #define PIN_SWDIO_TMS_PORT      1
  #define PIN_SWDIO_TMS_BIT       20
